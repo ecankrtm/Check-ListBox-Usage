@@ -1,0 +1,10 @@
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\bin\Debug\Country.exe.config
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\bin\Debug\Country.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\bin\Debug\Country.pdb
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.csproj.AssemblyReference.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.Form1.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.Properties.Resources.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.csproj.GenerateResource.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.csproj.CoreCompileInputs.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Country\Country\obj\Debug\Country.pdb
